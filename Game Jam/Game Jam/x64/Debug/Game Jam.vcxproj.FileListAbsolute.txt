@@ -1,0 +1,8 @@
+C:\Users\gt826\OneDrive\Documentos\2024 - 2 (Algoritmos)\Game Jam\New folder\Game Jam\Game Jam\x64\Debug\Game Jam.vcxproj.AssemblyReference.cache
+C:\Users\gt826\OneDrive\Documentos\2024 - 2 (Algoritmos)\Game Jam\New folder\Game Jam\Game Jam\x64\Debug\GameJam.MenuPrincipal.resources
+C:\Users\gt826\OneDrive\Documentos\2024 - 2 (Algoritmos)\Game Jam\New folder\Game Jam\Game Jam\x64\Debug\Game Jam.vcxproj.GenerateResource.cache
+C:\Users\gt826\OneDrive\Documentos\2024 - 2 (Algoritmos)\Game Jam\New folder\Game Jam\Game Jam\x64\Debug\GameJam.GeneraciónAutomática.resources
+C:\Users\USER\Desktop\Game Jam\Game Jam\x64\Debug\Game Jam.vcxproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Game Jam\Game Jam\x64\Debug\GameJam.GeneraciónAutomática.resources
+C:\Users\USER\Desktop\Game Jam\Game Jam\x64\Debug\GameJam.MenuPrincipal.resources
+C:\Users\USER\Desktop\Game Jam\Game Jam\x64\Debug\Game Jam.vcxproj.GenerateResource.cache
