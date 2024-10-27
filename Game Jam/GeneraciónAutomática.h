@@ -23,6 +23,7 @@ namespace GameJam {
 			//TODO: Add the constructor code here
 			//
 			gr = this->CreateGraphics();
+
 			juego = new Juego();
 			carrera = false;
 			tiempoRestante = 200;
@@ -46,6 +47,7 @@ namespace GameJam {
 		/// </summary>
 		Graphics^ gr;
 		Juego* juego;
+
 		bool carrera;
 		float tiempoRestante;
 	public: System::Windows::Forms::Timer^ timer1;
@@ -114,9 +116,11 @@ namespace GameJam {
 	}
 	private: System::Void GeneraciónAutomática_KeyDown(System::Object^ sender, System::Windows::Forms::KeyEventArgs^ e) {
 		if (e->KeyCode == Keys::Enter) {
+			
 			juego->agregarCarros(carrera, gr);
 			timer1->Enabled = true;
-
+			
+			
 		}
 	}
 	};

@@ -26,7 +26,7 @@ public:
 
 	void mover(Graphics^ gr) {
 			borrar(gr);
-			if (x + dx < 0 || x + dx + ancho > gr->VisibleClipBounds.Width) dx *= -1;
+			if (x + dx < 0 || x + dx + ancho > gr->VisibleClipBounds.Width) dx *= -1;		
 			if (y + dy < 0 || y + dy + alto > gr->VisibleClipBounds.Height) dy *= -1; 
 			x += dx;
 			y += dy;

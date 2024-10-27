@@ -34,6 +34,7 @@ public:
 		}
 	}
 
+
 	bool mover_todo(Graphics^ gr, int meta) {
 		arrC->moverTodo(gr);
 		return arrC->ganoCarrera(meta);  
